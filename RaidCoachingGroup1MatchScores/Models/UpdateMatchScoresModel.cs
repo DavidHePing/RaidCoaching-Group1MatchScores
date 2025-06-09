@@ -1,4 +1,4 @@
-using RaidCoachingGroup1MatchScores.Enum;
+using RaidCoachingGroup1MatchScores.Enums;
 
 namespace RaidCoachingGroup1MatchScores.Models;
 

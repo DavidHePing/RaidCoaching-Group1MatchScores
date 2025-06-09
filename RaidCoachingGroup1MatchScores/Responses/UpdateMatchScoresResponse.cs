@@ -1,4 +1,4 @@
-namespace RaidCoachingGroup1MatchScores.Response;
+namespace RaidCoachingGroup1MatchScores.Responses;
 
 public class UpdateMatchScoresResponse
 {

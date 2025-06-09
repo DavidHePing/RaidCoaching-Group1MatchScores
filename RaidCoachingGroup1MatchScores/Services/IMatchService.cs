@@ -1,7 +1,6 @@
 using RaidCoachingGroup1MatchScores.Models;
-using RaidCoachingGroup1MatchScores.Request;
 
-namespace RaidCoachingGroup1MatchScores.Service
+namespace RaidCoachingGroup1MatchScores.Services
 {
     public interface IMatchService
     {

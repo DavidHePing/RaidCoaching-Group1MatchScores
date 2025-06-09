@@ -1,4 +1,4 @@
-namespace RaidCoachingGroup1MatchScores.Enum;
+namespace RaidCoachingGroup1MatchScores.Enums;
 
 public enum MatchEventEnum
 {

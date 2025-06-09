@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using RaidCoachingGroup1MatchScores.Request;
-using RaidCoachingGroup1MatchScores.Response;
-using RaidCoachingGroup1MatchScores.Service;
+using RaidCoachingGroup1MatchScores.Requests;
+using RaidCoachingGroup1MatchScores.Responses;
+using RaidCoachingGroup1MatchScores.Services;
 
 namespace RaidCoachingGroup1MatchScores.Controller;
 

@@ -1,7 +1,7 @@
-using RaidCoachingGroup1MatchScores.Enum;
+using RaidCoachingGroup1MatchScores.Enums;
 using RaidCoachingGroup1MatchScores.Models;
 
-namespace RaidCoachingGroup1MatchScores.Request;
+namespace RaidCoachingGroup1MatchScores.Requests;
 
 public class UpdateMatchScoresRequest
 {

@@ -1,6 +1,3 @@
-using RaidCoachingGroup1MatchScores.Repository;
-using RaidCoachingGroup1MatchScores.Service;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -10,8 +7,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Register services
-builder.Services.AddSingleton<IMatchRepository, MatchRepository>();
-builder.Services.AddScoped<IMatchService, MatchService>();
+// builder.Services.AddSingleton<IMatchRepository, MatchRepository>();
+// builder.Services.AddScoped<IMatchService, MatchService>();
 
 var app = builder.Build();
 
