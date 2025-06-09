@@ -5,8 +5,8 @@ using RaidCoachingGroup1MatchScores.Service;
 
 namespace RaidCoachingGroup1MatchScores.Controller;
 
-
-
+[ApiController]
+[Route("api/[controller]")]
 public class MatchController(IMatchService matchService) : ControllerBase
 {
     [HttpPost("UpdateMatchScores")]
